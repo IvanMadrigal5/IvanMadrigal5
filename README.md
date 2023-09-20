@@ -5,11 +5,11 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
 
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Post-Installation Configuration](https://github.com/IvanMadrigal5/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/IvanMadrigal5/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Configuring Active Directory within Azure VMs](https://github.com/IvanMadrigal5/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IvanMadrigal5/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
@@ -17,6 +17,5 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Ivan
-[instagram]: https://www.instagram.com/Ivan
+
 [linkedin]: https://linkedin.com/in/Ivan
